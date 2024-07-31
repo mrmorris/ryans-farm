@@ -3,3 +3,4 @@
 ---
 
 Name: Bessie
+Color: Black & White

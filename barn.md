@@ -5,9 +5,7 @@
 Animals:
 
 * [Cow](./cow.md)
-* [Aardvark](./aardvark.md)
-* [Cat](./cat.md)
+* [Francis](./poodle.md)
+* [Dog](./dog.md)
 
----
-
-Copyright 2024
+!!!

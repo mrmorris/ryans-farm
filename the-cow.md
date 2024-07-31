@@ -1,6 +1,6 @@
-# Cow
+# Grass Eater
 
 ---
 
-Name: Bessie
-Color: Black & White
+Name: Grassy
+Color: Blue
